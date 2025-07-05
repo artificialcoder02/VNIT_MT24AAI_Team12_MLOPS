@@ -2,3 +2,7 @@ flask
 pandas
 scikit-learn
 mlflow
+transformers 
+datasets
+torch
+

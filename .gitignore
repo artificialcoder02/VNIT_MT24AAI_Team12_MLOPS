@@ -1,0 +1,6 @@
+data/aclImdb/
+*.csv
+*.ipynb
+mlops_vnit
+MT24AAI018_TuhinRoychowdhury_MLOps.ipynb
+mlruns

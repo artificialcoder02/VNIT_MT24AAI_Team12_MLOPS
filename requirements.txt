@@ -1,8 +1,31 @@
-flask
-pandas
-scikit-learn
-mlflow
-transformers 
-datasets
-torch
+# Flask and Web Framework
+Flask==2.3.3
+Werkzeug==2.3.7
 
+# MLflow for Model Management
+mlflow==2.7.1
+mlflow[extras]==2.7.1
+
+# Machine Learning Libraries
+scikit-learn==1.3.0
+pandas==2.0.3
+numpy==1.24.3
+
+# Deep Learning and Transformers
+torch==2.0.1
+transformers==4.33.2
+
+# Additional Dependencies
+joblib==1.3.2
+boto3==1.28.62
+psutil==5.9.5
+gunicorn==21.2.0
+
+# Development and Testing
+pytest==7.4.2
+pytest-cov==4.1.0
+black==23.7.0
+flake8==6.0.0
+
+# Health Check
+curl==0.0.1

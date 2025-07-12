@@ -1,7 +1,9 @@
 ﻿# VNIT_MT24AAI_Team12_MLOPS
 ## Members
 ### MT24AAI018
+### MT24AAI059
 ### MT24AAI068
+
 
 
 # MLOps Flask Application with MLflow
